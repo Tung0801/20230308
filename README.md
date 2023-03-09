@@ -1,7 +1,21 @@
 # 20230308-20230312 課程
 - 3.8-10 請先自己先學習部分主題
 - 3.11 會有講師示範各類型主題的技術 歐
+  - [線上上課(Google Meet)](https://meet.google.com/qiw-uwhq-ebn)
+  - Google Meet講師線上Q&A直播教學時間
+    - 900-9:50 CTF自主解題
+    - 11:10-12:00 Linux 解題教學Q&A
+    - 13:50-14:40 Python資安應用解題具Q&A
+    - 15:50-16:40 Python PPC解題典Q&A
 - 本課程強調自主學習 所以3.11上課前一定要先自己(配合錄影教學)完成部分主題歐
+- [Discord課程討論區：https://discord.gg/sbDvYZnj](https://discord.gg/sbDvYZnj)
+- 上課簽到
+  - [3/9   簽到簿](https://forms.gle/LssVjzv5Xx2M9bsX7)
+  - [3/10 簽到簿](https://forms.gle/txTa2azDncarirvc7)
+  - [3/11  簽到簿](https://forms.gle/rVHF88TVvd43fA6G7)
+  - [3/12 簽到簿](https://forms.gle/wcafLfGqiH4PgQNA7)
+- [問卷調查](https://forms.gle/c1rtNLqFtbExGqrU9)
+  - (最後填寫!一定要填寫) 
 
 ### 線上教材及教學錄影
 - 底下所有GITHUB都會持續開放並陸續增加內容 == >同學可以盡情學習~無分晝夜
